@@ -5,9 +5,6 @@
 ![License](https://img.shields.io/github/license/wprimadi/barricade)
 ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=wprimadi_barricade&metric=alert_status) 
 [![BARRICADE CDN](https://data.jsdelivr.com/v1/package/gh/wprimadi/barricade/badge)](https://www.jsdelivr.com/package/gh/wprimadi/barricade)
-[![CDN Hits](https://data.jsdelivr.com/v1/package/gh/wprimadi/barricade/badge)](https://www.jsdelivr.com/package/gh/wprimadi/barricade)
-[![CDN Downloads](https://data.jsdelivr.com/v1/package/gh/wprimadi/barricade/badge)](https://www.jsdelivr.com/package/gh/wprimadi/barricade)
-[![jsDelivr Usage](https://data.jsdelivr.com/v1/package/gh/wprimadi/barricade/badge)](https://www.jsdelivr.com/package/gh/wprimadi/barricade)
 [![npm version](https://img.shields.io/npm/v/@wprimadi/barricade.svg)](https://www.npmjs.com/package/@wprimadi/barricade)
 [![npm downloads](https://img.shields.io/npm/dm/@wprimadi/barricade.svg)](https://www.npmjs.com/package/@wprimadi/barricade)
 
