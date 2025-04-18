@@ -2,6 +2,15 @@
 
 **Bot Activity Recognition & Reputation-based Inspection for Client-side Anomaly Detection & Evaluation**
 
+![License](https://img.shields.io/github/license/wprimadi/barricade)
+![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=wprimadi_barricade&metric=alert_status) 
+[![BARRICADE CDN](https://data.jsdelivr.com/v1/package/gh/wprimadi/barricade/badge)](https://www.jsdelivr.com/package/gh/wprimadi/barricade)
+[![CDN Hits](https://data.jsdelivr.com/v1/package/gh/wprimadi/barricade/badge)](https://www.jsdelivr.com/package/gh/wprimadi/barricade)
+[![CDN Downloads](https://data.jsdelivr.com/v1/package/gh/wprimadi/barricade/badge)](https://www.jsdelivr.com/package/gh/wprimadi/barricade)
+[![jsDelivr Usage](https://data.jsdelivr.com/v1/package/gh/wprimadi/barricade/badge)](https://www.jsdelivr.com/package/gh/wprimadi/barricade)
+[![npm version](https://img.shields.io/npm/v/@wprimadi/barricade.svg)](https://www.npmjs.com/package/@wprimadi/barricade)
+[![npm downloads](https://img.shields.io/npm/dm/@wprimadi/barricade.svg)](https://www.npmjs.com/package/@wprimadi/barricade)
+
 B.A.R.R.I.C.A.D.E is a lightweight and extensible JavaScript library that helps you detect bots, headless browsers, automation tools, and suspicious activities right from your frontend. Whether you're dealing with scrapers, brute force attempts, or malicious actors, this tool gives you real-time insights to take action and stay protected.
 
 ---
@@ -25,7 +34,37 @@ You can include B.A.R.R.I.C.A.D.E via script tag or serve it from your own CDN/s
 <script src="path/to/barricade.min.js"></script>
 ```
 
-Or serve it via NPM/CDN (coming soon...)
+Or serve it via NPM/CDN:
+
+### CDN
+
+You can include B.A.R.R.I.C.A.D.E from a CDN:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/wprimadi/barricade@v1.0.0/barricade.min.js"></script>
+```
+
+Or the latest version:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/wprimadi/barricade/barricade.min.js"></script>
+```
+
+### NPM
+
+Install via NPM:
+
+```bash
+npm install @wprimadi/barricade
+```
+
+Or use it from the CDN NPM package:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@wprimadi/barricade/barricade.min.js"></script>
+```
+
+For more details, visit the [NPM page](https://www.npmjs.com/package/@wprimadi/barricade).
 
 ---
 

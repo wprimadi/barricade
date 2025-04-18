@@ -1,0 +1,30 @@
+{
+  "name": "@wprimadi/barricade",
+  "version": "1.0.0",
+  "description": "Lightweight bot and automation detection engine for browsers",
+  "main": "barricade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wprimadi/barricade.git"
+  },
+  "keywords": [
+    "bot",
+    "browser",
+    "fingerprinting",
+    "detection",
+    "automation",
+    "barricade",
+    "javascript",
+    "script",
+    "library"
+  ],
+  "author": "Wahyu Primadi <saya@wahyuprimadi.com> (https://wahyuprimadi.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wprimadi/barricade/issues"
+  },
+  "homepage": "https://github.com/wprimadi/barricade#readme"
+}
