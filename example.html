@@ -1,19 +1,29 @@
-<html>
-    <head>
-        <title>Example</title>
-        <script src="barricade.min.js"></script>
-    </head>
-    <body>
-        <script>
-            const result = barricade.detect(3);
-            console.log(result);
-            
-            console.log("Bot: " + result.isBot)
-            console.log("Automation Tool: " + result.isAutomationTool)
-            console.log("Search Engine Bot: " + result.isSearchEngineBot)
-            console.log("Score: " + result.score)
-            console.log("Threshold: " + result.thresholdUsed)
-            console.log("Checks: " + result.totalChecks)
-        </script>
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Example</title>
+    <script src="barricade.min.js" type="text/javascript" defer></script>
+</head>
+<body>
+    <script type="text/javascript">
+        "use strict";
+
+        window.addEventListener("DOMContentLoaded", function () {
+            if (typeof window.barricade === "object" && typeof window.barricade.detect === "function") {
+                const result = window.barricade.detect(3);
+
+                console.log(result);
+                console.log(`Bot: ${result.isBot}`);
+                console.log(`Automation Tool: ${result.isAutomationTool}`);
+                console.log(`Search Engine Bot: ${result.isSearchEngineBot}`);
+                console.log(`Score: ${result.score}`);
+                console.log(`Threshold: ${result.thresholdUsed}`);
+                console.log(`Checks: ${result.totalChecks}`);
+            } else {
+                console.warn("Barricade is not available or not properly loaded.");
+            }
+        });
+    </script>
+</body>
 </html>
