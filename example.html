@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Example</title>
+        <script src="barricade.min.js"></script>
+    </head>
+    <body>
+        <script>
+            const result = barricade.detect(3);
+            console.log(result);
+            
+            console.log("Bot: " + result.isBot)
+            console.log("Automation Tool: " + result.isAutomationTool)
+            console.log("Search Engine Bot: " + result.isSearchEngineBot)
+            console.log("Score: " + result.score)
+            console.log("Threshold: " + result.thresholdUsed)
+            console.log("Checks: " + result.totalChecks)
+        </script>
+    </body>
+</html>
