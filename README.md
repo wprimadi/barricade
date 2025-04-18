@@ -1,6 +1,6 @@
 # B.A.R.R.I.C.A.D.E
 
-**Browser Activity-based Real-time Recognition & Intelligent Classification for Automation & Detection Enhancement**
+**Bot Activity Recognition & Reputation-based Inspection for Client-side Anomaly Detection & Evaluation**
 
 B.A.R.R.I.C.A.D.E is a lightweight and extensible JavaScript library that helps you detect bots, headless browsers, automation tools, and suspicious activities right from your frontend. Whether you're dealing with scrapers, brute force attempts, or malicious actors, this tool gives you real-time insights to take action and stay protected.
 
