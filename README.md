@@ -95,6 +95,15 @@ For more details, visit the [NPM page](https://www.npmjs.com/package/@wprimadi/b
 
 ---
 
+## 🌐 Compatibility
+
+![Chrome](https://img.shields.io/badge/Chrome-135.0.7049.85-blue?logo=googlechrome)
+![Edge](https://img.shields.io/badge/Edge-135.0.3179.73-blue?logo=microsoftedge)
+![Firefox](https://img.shields.io/badge/Firefox-137.0.2-orange?logo=firefox)
+![Opera](https://img.shields.io/badge/Opera-117.0.5408.197-red?logo=opera)
+
+---
+
 ## 🧑‍💻 Author
 
 **Wahyu Primadi**  
