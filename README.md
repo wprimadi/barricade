@@ -97,6 +97,8 @@ For more details, visit the [NPM page](https://www.npmjs.com/package/@wprimadi/b
 
 ## 🌐 Compatibility
 
+B.A.R.R.I.C.A.D.E has been tested and verified on the following browsers:
+
 ![Chrome](https://img.shields.io/badge/Chrome-135.0.7049.85-blue?logo=googlechrome)
 ![Edge](https://img.shields.io/badge/Edge-135.0.3179.73-blue?logo=microsoftedge)
 ![Firefox](https://img.shields.io/badge/Firefox-137.0.2-orange?logo=firefox)
